@@ -62,7 +62,7 @@ cat logs.txt | grep -Eo "([0-9]{1,3}\.){3}[0-9]{1,3}"
 📫 Let's Connect  
 💼 LinkedIn - Mahmoud Salman  
 🧠 TryHackMe | Hack The Box (Profiles on request)  
-📧 Email: your.email@domain.com (replace this)
+📧 Email: mahmoudginsh64@gmail.com (only work)
 
 “Security isn’t just about finding vulnerabilities — it's about understanding systems deeply enough to break and protect them.”
 
