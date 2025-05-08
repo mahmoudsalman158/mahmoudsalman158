@@ -80,5 +80,5 @@ cat logs.txt | grep -Eo "([0-9]{1,3}\.){3}[0-9]{1,3}"
 
 ---
 
-🔥 Snake animation (only for profile repo)  
+🔥 snake eats my repo  
 ![snake gif](https://github.com/mahmoudsalman158/mahmoudsalman158/blob/output/github-contribution-grid-snake.svg)
