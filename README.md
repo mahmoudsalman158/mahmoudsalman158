@@ -56,14 +56,29 @@ for url in urls:
 cat logs.txt | grep -Eo "([0-9]{1,3}\.){3}[0-9]{1,3}"
 ```
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mahmoudsalman158&show_icons=true&theme=tokyonight" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsalman158&layout=compact&theme=tokyonight" /> </p>
+📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudsalman158&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsalman158&layout=compact&theme=tokyonight" />
+</p>
 
-📫 Let's Connect  
-💼 LinkedIn - Mahmoud Salman  
-🧠 TryHackMe | Hack The Box (Profiles on request)  
-📧 Email: mahmoudginsh64@gmail.com (only work)
+---
 
-“Security isn’t just about finding vulnerabilities — it's about understanding systems deeply enough to break and protect them.”
+## 📫 Let's Connect
 
+💼 [LinkedIn - Mahmoud Salman](https://www.linkedin.com/in/mahmoud-salman-3b4a2a271/)  
+🧠 [LeetCode - Problem Solving](https://leetcode.com/u/mahmoud_Neo/)  
+📺 [YouTube Channel - Mahmoud Salman](https://www.youtube.com/c/FREEfree)  
+🌐 [Website - www.mahmoudsalman.com](https://5naktona.blogspot.com/)  
+🧠 TryHackMe | Hack The Box   
+📧 Email: mahmoudginsh64@gmail.com (work)
 
+---
+
+> “Security isn’t just about finding vulnerabilities — it's about understanding systems deeply enough to break and protect them.”
+
+---
+
+🔥 Snake animation (only for profile repo)  
+![snake gif](https://github.com/mahmoudsalman158/mahmoudsalman158/blob/output/github-contribution-grid-snake.svg)
